@@ -10,3 +10,6 @@ Worked on it from 3/24 -> 3/27
 So I didn't explicitly use a formal IDE to create this code, and I instead used Google Colab to create this
 Just drop this code into a cell and run it directly! (All the helper methods and other stuff should be contained in the main file)
 I tried to document this code as best as I could, and if anyone has any suggestions on how to make this code better (or more efficient lol), feel free to reach out to me on discord @heart022!
+
+# What if I want to use it?
+If for whatever reason you want to use this code (not sure exactly why you would want to do that), all of the code is open source! Also, optionally, if you find a cool way of utilizing my code in your own project(s), reach out and tell me about it! (i'll find it super cool)
